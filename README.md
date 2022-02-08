@@ -1,23 +1,23 @@
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+<h2> <img src="https://media1.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30" height="30"> &nbsp; I'm Govardhan Srinivas! </h2>
+<img align='left' src="https://github.com/govardhan-srinivas/govardhan-srinivas/blob/master/coding.gif?raw=true" width="230">
+<p><em>Software Enginner III at <a href="https://dutchview.com">Dutchview IT</a>  &nbsp; <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Spending most of the time on <a href="https://flexwhere.co.uk">FlexWhere</a> product for a while now  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-:computer: Software Development Engineer III, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Netherlands.
+[![Linkedin: govardhan-srinivas](https://img.shields.io/badge/-govardhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govardhan-srinivas/)](https://www.linkedin.com/in/govardhan-srinivas/)  [![GitHub govardhan-srinivas](https://img.shields.io/github/followers/govardhan-srinivas?label=follow&style=social)](https://github.com/govardhan-srinivas)
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 & frameworks.
+</br></br>
 
-👯 I’m looking to collaborate on open source projects
+### A bit more about me...  
 
-📫 Reach me: govardhan.s92@gmail.com
-<!--
-**govardhan-srinivas/govardhan-srinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const govardhan = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [Angular, React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Jenkins],
+  architecture: ["microservices", "event-driven"]
+}
+```
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---

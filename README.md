@@ -3,7 +3,8 @@
 <p><em>Software Enginner III at <a href="https://dutchview.com">Dutchview IT</a>  &nbsp; <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Spending most of the time on <a href="https://flexwhere.co.uk">FlexWhere</a> product for a while now  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: govardhan-srinivas](https://img.shields.io/badge/-govardhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govardhan-srinivas/)](https://www.linkedin.com/in/govardhan-srinivas/)  [![GitHub govardhan-srinivas](https://img.shields.io/github/followers/govardhan-srinivas?label=follow&style=social)](https://github.com/govardhan-srinivas)
+[![Linkedin: govardhan-srinivas](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govardhan-srinivas/)](https://www.linkedin.com/in/govardhan-srinivas/)  [![GitHub govardhan-srinivas](https://img.shields.io/github/followers/govardhan-srinivas?label=Github&style=social)](https://github.com/govardhan-srinivas)  [![Medium: govardhan-srinivas](https://img.shields.io/badge/medium--blog-black?logo=medium&color=white&logoColor=black&link=https://govardhan-srinivas.medium.com/)](https://govardhan-srinivas.medium.com/)   [![NPM: govardhan-srinivas](https://img.shields.io/badge/npm-white?logo=npm&link=https://www.npmjs.com/~govardhan-srinivas)](https://www.npmjs.com/~govardhan-srinivas)   [![Portfolio: govardhan-srinivas](https://img.shields.io/badge/Portfolio-white?logo=codeIgniter&link=https://govardhan-srinivas.github.io/)](https://govardhan-srinivas.github.io/)
+
 
 </br></br>
 

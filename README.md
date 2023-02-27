@@ -15,7 +15,7 @@ const govardhan = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [Angular, React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Jenkins],
-  architecture: ["microservices", "event-driven"]
+  architecture: ["microservices", "micro-frontend"]
 }
 ```
 
